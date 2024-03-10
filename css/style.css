@@ -25,6 +25,7 @@ nav ul a {
         justify-content:space-evenly;
         padding: 2%;
         text-decoration: none;
+        color: var(--text-color);
 }
 
 a:visited {
