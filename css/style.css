@@ -217,7 +217,7 @@ img:hover {
   .dark-mode {
     --bg-color: #363537;
     --text-color: #FAFAFA;
-    --visited-link-color: #BBBBBB
+    --visited-link-color: #FAFAFA;
   }
 
   body {
